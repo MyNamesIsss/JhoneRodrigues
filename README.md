@@ -2,9 +2,9 @@
 #### Eu sou o Jhone Rodrigues
 
 <div>
-  <a href="https://github.com/jhonerodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonerodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonerodrigues&layout=compact&langs_count=16&theme=tokyonight"/>
+  <a href="https://github.com/JhoneRodrigues">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhoneRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoneRodrigues&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
 <div>
