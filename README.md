@@ -10,14 +10,14 @@
 
 ## Olá, eu sou o Jhone! 👋
 ### Sobre mim
-<img src="https://user-images.githubusercontent.com/110574688/229301646-f73c7fc1-8f84-4f41-9b32-97e58640a760.gif" align="right" width="100" height="200" style="border-radius:500"/>
+<div>
+<img src="https://user-images.githubusercontent.com/110574688/229301646-f73c7fc1-8f84-4f41-9b32-97e58640a760.gif" align="right" width="100" height="200" style="magin-bottom:0px"/>
 <p>- 👨‍💻 Me descobri um informata após criar uma marca de roupa focada em Skatistas, aonde desenvolvi diversas
     habilidades para produção de conteúdo no instagram. Com o tempo percebi que gostava de ficar horas na
     frente de um computador, então resumindo, tomei a decisão de me realocar profissionalmente.</p>
 <p>- 📚 Cursando Análise e desenvolvimento de sistemas.</p>
 <p>- 🎯 Interesses: Programming Logic, Java, Spring Boot e Python.</p>
 <p>- 🛹 Gosto de andar de Skate para relaxar ou até ganhar um roxo na canela haha.</p>
-</ul>  
 </div>
   
 ## Outras redes 🌐
