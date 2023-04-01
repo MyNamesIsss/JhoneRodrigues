@@ -10,7 +10,7 @@
 
 ## Olá, eu sou o Jhone! 👋
 ### Sobre mim
-<img src="https://user-images.githubusercontent.com/110574688/229300834-8c6ee377-7c2b-4a79-ad7e-511e725f1750.gif" align="right" width="200" height="100" style="border-radius:270;"/>
+<img src="https://user-images.githubusercontent.com/110574688/229301646-f73c7fc1-8f84-4f41-9b32-97e58640a760.gif" align="right" width="100" height="200" style="border-radius:270;"/>
 <ul>  
   <li> 👨‍💻 Me descobri com informata após criar uma marca de roupa aonde desenvolvi diversas
     habilidades para produção de conteúdo no instagram. Com isso percebi que gostava de ficar horas na
