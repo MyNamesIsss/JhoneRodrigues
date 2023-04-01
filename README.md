@@ -15,8 +15,8 @@
 <img align="right" width="200" height="270" style="border-radius:100px;" src="Assets/bord.gif" />
 <ul>  
   <li> 👨‍💻 Me descobri com informata após tentar construir uma marca de roupa aonde desenvolvi rapidamente
-    diversashabilidades para produção de conteúdo no instagram. Com isso notei que gostava de ficar horas na
-    frente de um computador,então tomei a decisão de me realocar profissionalmente.</li>
+     diversashabilidades para produção de conteúdo no instagram. Com isso notei que gostava de ficar horas na
+    frente de um computador, então tomei a decisão de me realocar profissionalmente.</li>
   <li> 📚 Cursando Análise e desenvolvimento de sistemas.</li>
   <li> 🎯 Interesses: Programming Logic, Java, Spring Boot e Python.</li>
   <li> 🛹 Gosto de andar de Skate para relaxar ou até ganhar um roxo na canela haha.</li>
