@@ -10,9 +10,7 @@
 
 ## Olá, eu sou o Jhone! 👋
 ### Sobre mim
-
-<div style="display:inline_block" >
-<img align="right" width="200" height="270" style="border-radius:100px;" src="https://github.com/JhoneRodrigues/JhoneRodrigues/issues/1#issue-1650531750](https://user-images.githubusercontent.com/110574688/229299497-20b75ba1-03c9-4ebf-b7b3-c5c2cde0eb51.gif" />
+<img src="https://user-images.githubusercontent.com/110574688/229300834-8c6ee377-7c2b-4a79-ad7e-511e725f1750.gif" align="right" width="200" height="100" style="border-radius:270;"/>
 <ul>  
   <li> 👨‍💻 Me descobri com informata após criar uma marca de roupa aonde desenvolvi diversas
     habilidades para produção de conteúdo no instagram. Com isso percebi que gostava de ficar horas na
