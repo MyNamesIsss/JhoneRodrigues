@@ -12,7 +12,7 @@
 ### Sobre mim
 
 <div style="display:inline_block" >
-<img align="right" width="200" height="270" style="border-radius:100px;" src="Assets/bord.gif" />
+<img align="right" width="200" height="270" style="border-radius:100px;" src="https://github.com/JhoneRodrigues/JhoneRodrigues/issues/1#issue-1650531750" />
 <ul>  
   <li> 👨‍💻 Me descobri com informata após criar uma marca de roupa aonde desenvolvi diversas
     habilidades para produção de conteúdo no instagram. Com isso percebi que gostava de ficar horas na
