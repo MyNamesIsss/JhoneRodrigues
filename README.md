@@ -14,8 +14,8 @@
 <div style="display:inline_block" >
 <img align="right" width="200" height="270" style="border-radius:100px;" src="Assets/bord.gif" />
 <ul>  
-  <li> 👨‍💻 Me descobri com informata após tentar construir uma marca de roupa aonde desenvolvi rapidamente
-     diversashabilidades para produção de conteúdo no instagram. Com isso notei que gostava de ficar horas na
+  <li> 👨‍💻 Me descobri com informata após criar uma marca de roupa aonde desenvolvi diversas
+    habilidades para produção de conteúdo no instagram. Com isso percebi que gostava de ficar horas na
     frente de um computador, então tomei a decisão de me realocar profissionalmente.</li>
   <li> 📚 Cursando Análise e desenvolvimento de sistemas.</li>
   <li> 🎯 Interesses: Programming Logic, Java, Spring Boot e Python.</li>
