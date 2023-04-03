@@ -17,7 +17,7 @@
     frente de um computador, então resumindo, tomei a decisão de me realocar profissionalmente.</p>
 <p>- 📚 Cursando Análise e desenvolvimento de sistemas.</p>
 <p>- 🎯 Interesses: Programming Logic, Java, Spring Boot e Python.</p>
-<p>- 🛹 Gosto de andar de Skate para relaxar ou até ganhar um roxo na canela haha.</p>
+<p>- 🛹 Gosto de andar de Skate para relaxar ou até ganhar alguns roxos na canela haha.</p>
 </div>
   
 ## Outras redes 🌐
