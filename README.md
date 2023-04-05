@@ -1,15 +1,18 @@
+## Olá, eu sou o Jhone. Seja bem vindo(a) ao meu perfil! 👋
+
+### Meus Comitts 🖥
 </br>
-<section align="center">
+<section align="center" style="display:flex-inline">
   <div>
     <a href="https://github.com/JhoneRodrigues">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhoneRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoneRodrigues&layout=compact&langs_count=16&theme=tokyonight"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JhoneRodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">  
+    &nbsp;&nbsp;  
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoneRodrigues&layout=compact&langs_count=16&theme=dracula">
   </div>
 </section>
 </br>  
 
-## Olá, eu sou o Jhone! 👋
-### Sobre mim
+### Sobre mim 👀
 <div>
 <img src="https://user-images.githubusercontent.com/110574688/229301646-f73c7fc1-8f84-4f41-9b32-97e58640a760.gif" align="right" width="100" height="200"/>
 <p>- 👨‍💻 Me descobri um informata após criar uma marca de roupa focada em Skatistas, aonde desenvolvi diversas
@@ -21,6 +24,7 @@
 </div>
   
 ## Outras redes 🌐
+</br>
 <section align="center">  
   <div> 
     <a href = "mailto:jhonecosta30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title="E-mail: jhonecosta30@gmail.com"></a>
@@ -33,8 +37,17 @@
 </br>
 
 ## Minhas skills :nerd_face:
+</br>
 <div align="center"> 
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" title="Java">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python">  
 </div>
+
+</br>
+
+ ## Total de visitas no meu perfil :detective: <br>
+ </br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/JhoneRodrigues/count.svg" />
+ </p>
